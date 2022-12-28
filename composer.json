@@ -1,5 +1,5 @@
 {
-    "name": "drlecks/simple-web3-php",
+    "name": "freaker2k7/simple-web3-php",
     "description": "Web3 library in PHP",
     "keywords": ["ethereum", "transaction", "jsonRPC", "eth", "signed transaction", "php", "web3", "contract"],
     "type": "library",
